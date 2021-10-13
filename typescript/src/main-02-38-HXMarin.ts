@@ -28,7 +28,7 @@ do{
            colegio();
             break;
         case 31:
-            primos();
+            primos()
             break;
    
         case 0:
