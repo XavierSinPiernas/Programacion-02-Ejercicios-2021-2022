@@ -22,10 +22,10 @@ do{
      
     switch(i){
         case 23:
-            factoriales();
+            factoriales()
             break;
         case 29:
-           colegio();
+           colegio()
             break;
         case 31:
             primos()
